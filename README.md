@@ -3,6 +3,6 @@
 ---
 Repository files:
 * README.md
-* 'scripts.py' that contains all python exercises's solution
+* `scripts.py` that contains all python exercises's solution
 * LICENSE
 * Hackerrank_submissions.pdf
