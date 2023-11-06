@@ -4,3 +4,5 @@
 Repository files:
 * README.md
 * scripts.py
+* LICENSE
+* Hackerrank_submissions.pdf
