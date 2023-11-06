@@ -2,5 +2,5 @@
 ### Domenico Mangieri 1883920
 ---
 Repository files:
-⋅⋅* README.md
-⋅⋅* scripts.py
+* README.md
+* scripts.py
